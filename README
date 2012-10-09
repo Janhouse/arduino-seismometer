@@ -1,0 +1,18 @@
+Part of an old project of mine to read and display adx345 accelerometer readings
+on display.
+
+The idea was to use Arduino and adx345 accelerometer (from Sparkfun) to measure
+seismic activity. On bigger change it would send a signal to webcam and record 
+what is going on outside the window.
+
+I was making it because we have a problem in Riga, Latvia. Because of too bad 
+roads and too heavy vehicles in downtown using them, we get something 
+similar to small earthquakes. This causes damage houses by creating cracks in the 
+walls and ceiling. I wanted to record these causes on 'tape', get the vibration 
+strength equivalent in Richter magnitude scale and send it to the authority or 
+media to see if something could be done to fix that (make them fix the roads).
+
+The project was unfinished because I moved to a new place and had no need for it 
+anymore.
+
+Check the screenshots folder to get an understanding how far I got with it.
